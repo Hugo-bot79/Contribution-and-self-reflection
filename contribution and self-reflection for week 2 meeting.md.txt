@@ -1,14 +1,15 @@
-contribution and self-reflection for week 2 meeting.md
-# Note:
-Hugo Chen: 
-Contribution:
-1. Prepare the meeting note.
-2. Defined the parameter on the table and sent the link of the article to other group members, so that we can find out the mistake that we made and make a proper choice and determine what we will talk about in the project.
-3. Discuss on the duties for this group meeting, I will choose the parameter that we need, Abhinaya and XingKun will change the data to floating numbers.
-4. Provide at least three lines of new codes, fix the mistakes that I made.
-5. Offer help to other group members
+Date: Thursday, 25/09/2025
+# Contirbution:
+1. Decide to select option 1 for our project.
+2. discuss with other group members to decide the dataset that we are going to use.
+3. Discuss on the contents that we are going to work on.
+4. Provide three lines of codes and three documentation.
 
-Self reflection: 
-1. I still don't know a few parameters from these two files, next time I need to read the article thoroughly before the group meeting.
-2. Need to read the brief thoroughly to avoid any confusion.
-3. Still need to improve my coding skills. And I will need to comprehend the usage of GitHub.
+# Self-reflecytion:
+1. Need to further familiar with using GitHub and VS code.
+2. Need to learn about python language.
+3. Need to understand the parameters in the dataset.
+4. Need to make sure the repository work for everyone before the assessment task.
+
+In conclusion, we have simply decided what we are going to do for our projects. 
+However, extra efforts are required to improve the skills in using VS code and GitHub, and get familiar with the contents knowledge.
