@@ -2,7 +2,7 @@
 Hugo Chen: 
 Contribution:
 1. Prepare the meeting note.
-2. Gather ideas fro the group members.
+2. Gather ideas from the group members.
 3. Contribute three lines of codes on how to plot the age and metallicity relation to define possible accreted cluster.
 4. Offer help to other group members
 
